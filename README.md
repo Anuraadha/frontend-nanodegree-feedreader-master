@@ -5,15 +5,26 @@
 
 ## How To Run
 
-   * Download the project repository.
+   * Download or clone this project repository.
 
-   * Unzip it in your computer.
+   * Extract all the folders.
 
-   * Open up index.html file.
+   * Open up index.html file to run this application.
 
 
 
 ## Performed Tests
+
+   * RSS Feeds URL and Name should be defined and not be empty.
+
+   * Menu Icon should be hidden by default and on clicking it should open and close menu icon.
+
+   * When loaded function is called there should be present atleast one entry element in the feed container.
+   
+   * Feed content should be changed to new content.
+
+
+
 
 
 
